@@ -37,7 +37,7 @@ function About(){
             <div className="col-sm-7">
             <h2>Welcome to Begone Herbicide</h2>
             <br/>
-            <p> Begone Herbicide is One of The Fastest Growing Business Group with a strong presence in the marketing and service industries of Agro Sector. Under the umbrella of BHM Group we are involved the marketing of various grade of Pesticides, Fungicides, Weedicide and have also ventured into the production of vegetable, grain and oil seeds. Additionally we are also suppliers of Bio-Fertilizers, Organic Products, Chelated Nutrients and Phosphatic Fertilizers motivated by our deep interest in farmers prosperity.</p>
+            <p> Begone Herbicide is One of The Fastest Growing Business Group with a strong presence in the marketing and service industries of Agro Sector. Under the umbrella of Begone Herbicide we are involved the marketing of various grade of Pesticides, Fungicides, Weedicide and have also ventured into the production of vegetable, grain and oil seeds. Additionally we are also suppliers of Bio-Fertilizers, Organic Products, Chelated Nutrients and Phosphatic Fertilizers motivated by our deep interest in farmers prosperity.</p>
             <br/>
           <br/><br/>
             <h3>Our Core Values</h3>
