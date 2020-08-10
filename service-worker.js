@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Begone-Herbicide/precache-manifest.00371c41b5415bfc40dcdc40bb4a3ead.js"
+  "/Begone-Herbicide/precache-manifest.6962a9c6941052cc4caaf5a8aa9cf15d.js"
 );
 
 self.addEventListener('message', (event) => {

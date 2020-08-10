@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc87a2fe1eabc859a4fd25207070c7f7",
+    "revision": "6261a1daf587dfaed241f95439e0bd12",
     "url": "/Begone-Herbicide/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Begone-Herbicide/static/css/2.ece8041d.chunk.css"
   },
   {
-    "revision": "5de4de48c8594cc7b07b",
+    "revision": "6147749a6e8c6f36f819",
     "url": "/Begone-Herbicide/static/css/main.fa6c7a91.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Begone-Herbicide/static/js/2.b0bd6414.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5de4de48c8594cc7b07b",
-    "url": "/Begone-Herbicide/static/js/main.222857ff.chunk.js"
+    "revision": "6147749a6e8c6f36f819",
+    "url": "/Begone-Herbicide/static/js/main.4026c257.chunk.js"
   },
   {
     "revision": "97e11c4ec78b5a6cb732",
