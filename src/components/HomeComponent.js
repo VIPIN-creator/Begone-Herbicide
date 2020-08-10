@@ -98,7 +98,7 @@ function Home() {
             </h4>
             </div>
             <div className="col-12 col-sm-4 offset-1 text-center">
-              <img src="assets/images/A1.jpg" className="img-fluid" alt = "233"></img>
+              <img src="Begone-Herbicide/assets/images/A1.jpg" className="img-fluid" alt = "233"></img>
             </div>
           </div>
         </div>

@@ -87,7 +87,7 @@ class Contact extends Component {
 
                   return(
                     <div className="home">
-                    <img src="assets/images/theme.jpg" alt='23' className='theme'/>
+                    <img src="Begone-Herbicide/assets/images/theme.jpg" alt='23' className='theme'/>
                 <div className="centered text-center text-white">
                                <h1><b>Contact Us</b></h1>
                                <Breadcrumb style={{backgroundColor: '#F8F8F8'}}>

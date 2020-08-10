@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 export default function InvestInUs(){
     return(
         <div className="home">
-        <img src="assets/images/theme.jpg" alt='23' className='theme'/>
+        <img src="Begone-Herbicide/assets/images/theme.jpg" alt='23' className='theme'/>
         <div className="centered text-center text-white">
                        <h1><b>Invest In Us</b></h1>
                        <Breadcrumb style={{backgroundColor: '#F8F8F8'}}>
@@ -16,7 +16,7 @@ export default function InvestInUs(){
                        <div className="container mt-5">
                        <div className="row">
                        <div className="col-6 col-sm-4 offset-2 text-center">
-                       <img className="img-fluid mb-3" src="assets/images/battery.jpg" alt="234r" style={{width: "300px" }} />
+                       <img className="img-fluid mb-3" src="Begone-Herbicide/assets/images/battery.jpg" alt="234r" style={{width: "300px" }} />
                        <h3>Navidhya Battery</h3><br/><h4>Undertaken Begone Herbicide</h4>
                        </div>
                        <div className="col-sm-4">
