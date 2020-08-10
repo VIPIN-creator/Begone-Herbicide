@@ -22,7 +22,7 @@ function About(){
     
         return( 
             <div className=" home">
-            <img src="Begone-Herbicide/assets/images/theme.jpg" alt='23' className='theme'/>
+            <img src="assets/images/theme.jpg" alt='23' className='theme'/>
             <div className="centered text-center text-white">
                            <h1><b>About Us</b></h1>
                            <Breadcrumb style={{backgroundColor: '#F8F8F8'}}>
@@ -58,7 +58,7 @@ function About(){
             </h4>
             </div>
             <div className="col-sm-4 offset-1">
-              <img src="Begone-Herbicide/assets/images/A1.jpg" className="img-fluid"  alt = "sdfasdf"></img>
+              <img src="assets/images/A1.jpg" className="img-fluid"  alt = "sdfasdf"></img>
             </div>
           </div>
           <div className="container mt-4 text-center">

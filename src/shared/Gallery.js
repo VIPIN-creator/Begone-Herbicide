@@ -1,62 +1,62 @@
 export const items  = [
     {
       key: '1',
-      content: "Begone-Herbicide/assets/images/G1.jpg"
+      content: "assets/images/G1.jpg"
     },
     {
       key: '2',
-      content:"Begone-Herbicide/assets/images/G2.jpg" 
+      content:"assets/images/G2.jpg" 
     },
     {
       key: '3',
-      content:"Begone-Herbicide/assets/images/G3.jpg" 
+      content:"assets/images/G3.jpg" 
     },
     {
       key: '4',
-      content:"Begone-Herbicide/assets/images/G4.jpg" 
+      content:"assets/images/G4.jpg" 
     },
     {
       key: '5',
-      content:"Begone-Herbicide/assets/images/G5.jpg" 
+      content:"assets/images/G5.jpg" 
     },
     {
         key: '6',
-        content:"Begone-Herbicide/assets/images/G6.jpg" 
+        content:"assets/images/G6.jpg" 
       },
       {
         key: '7',
-        content:"Begone-Herbicide/assets/images/G7.jpg" 
+        content:"assets/images/G7.jpg" 
       },
       {
         key: '8',
-        content:"Begone-Herbicide/assets/images/G8.jpg" 
+        content:"assets/images/G8.jpg" 
       },
       {
           key: '9',
-          content:"Begone-Herbicide/assets/images/G9.jpg" 
+          content:"assets/images/G9.jpg" 
         },
         {
           key: '10',
-          content:"Begone-Herbicide/assets/images/G10.jpg" 
+          content:"assets/images/G10.jpg" 
         },
         {
             key: '11',
-            content:"Begone-Herbicide/assets/images/G11.jpg" 
+            content:"assets/images/G11.jpg" 
           },
           {
             key: '12',
-            content:"Begone-Herbicide/assets/images/G12.jpg" 
+            content:"assets/images/G12.jpg" 
           },
           {
             key: '13',
-            content:"Begone-Herbicide/assets/images/G13.jpg" 
+            content:"assets/images/G13.jpg" 
           },
           {
               key: '14',
-              content:"Begone-Herbicide/assets/images/G14.jpg" 
+              content:"assets/images/G14.jpg" 
             },
             {
               key: '15',
-              content:"Begone-Herbicide/assets/images/G15.jpg" 
+              content:"assets/images/G15.jpg" 
             }
   ]

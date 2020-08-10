@@ -20,7 +20,7 @@ function toggleNav(){
         <div className="container">
         <Nav className="mr-auto" navbar>
             <NavItem>
-                <NavLink   to="/home"><img src="Begone-Herbicide/assets/images/logo.jpg" className="img-fluid logo" alt="2344" /></NavLink>
+                <NavLink   to="/home"><img src="assets/images/logo.jpg" className="img-fluid logo" alt="2344" /></NavLink>
             </NavItem>
         </Nav>
         <NavbarToggler onClick={toggleNav}  />

@@ -64,7 +64,7 @@ function GalleryAndProduct({name, items}){
 
         return(
             <div className="gallery "><div>
- <img src="Begone-Herbicide/assets/images/theme.jpg" alt='23' className='theme'/>
+ <img src="assets/images/theme.jpg" alt='23' className='theme'/>
  <div className="centered text-center text-white">
                 <h1><b>{name}</b></h1>
                 <Breadcrumb style={{backgroundColor: '#F8F8F8'}}>
