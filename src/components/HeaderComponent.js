@@ -46,7 +46,7 @@ function toggleNav(){
             <NavLink className="nav-link mr-3" to="/invest">Invest In Us</NavLink>
             </NavItem>
            <NavItem>
-     <div class="powr-hit-counter" id="37fb65dd_1600140680"></div><script src="https://www.powr.io/powr.js?platform=react"></script>
+     <div class="powr-hit-counter" id="b4c0b1d4_1600142467"></div><script src="https://www.powr.io/powr.js?platform=react"></script>
      </NavItem>
             </Nav>
             
