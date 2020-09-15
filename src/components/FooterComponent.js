@@ -43,9 +43,7 @@ function Footer(props) {
                 <div className="col-auto">
                     <p>© Copyright 2002 Begone Herbicide</p>
                 </div>
-	    <div className = "col ml-5">
-	    <span class="powr-hit-counter" id="37fb65dd_1600140680">Counter</span><script src="https://www.powr.io/powr.js?platform=react"></script>
-	    </div>
+	   
             </div>
             <ScrollToTop />
         </div>

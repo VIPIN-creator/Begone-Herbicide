@@ -1,6 +1,7 @@
 import React, { useState } from "react";
  import {  Navbar, NavbarToggler, Collapse, Nav, NavItem } from "reactstrap";
 import {NavLink} from "react-router-dom";
+import ScriptTag from "react-script-tag";
 
 function Header() {
 
@@ -46,7 +47,7 @@ function toggleNav(){
             <NavLink className="nav-link mr-3" to="/invest">Invest In Us</NavLink>
             </NavItem>
            <NavItem>
-     <div class="powr-hit-counter" id="b4c0b1d4_1600142467"></div><script src="https://www.powr.io/powr.js?platform=react"></script>
+     <span class="powr-hit-counter" id="b4c0b1d4_1600142467"></span><ScriptTag src="https://www.powr.io/powr.js?platform=react"></ScriptTag>
      </NavItem>
             </Nav>
             
